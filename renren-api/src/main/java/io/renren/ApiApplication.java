@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
-
+//2018-10-25
 @SpringBootApplication
 @MapperScan(basePackages = {"io.renren.dao"})
 public class ApiApplication extends SpringBootServletInitializer {
